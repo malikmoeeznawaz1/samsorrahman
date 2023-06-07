@@ -2,7 +2,7 @@
 ![logo](https://github.com/samsorrahman/samsorrahman/blob/main/Banner.png)
 <body>
   <div align="center">
-    <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
+    <h1> Hi there, I'm Malik 👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Backend+Development+Python+Django;&center=true&width=500&height=50"></a>
